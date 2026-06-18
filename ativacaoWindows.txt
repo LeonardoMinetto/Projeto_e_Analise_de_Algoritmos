@@ -1,0 +1,3 @@
+pelo powershell - admin 
+
+irm https://get.activated.win | iex

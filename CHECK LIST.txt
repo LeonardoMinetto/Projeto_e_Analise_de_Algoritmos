@@ -1,0 +1,13 @@
+CHECK LIST
+- O problema é de otimização? sim
+- É minimização, maximização, multiobjetivo? maximização
+- É NP-hard? sim
+- Tem instâncias de testes? sim
+
+ORIENTEERING PROBLEM
+- É um problema de roteamento com lucros
+- É NP-hard 
+
+FONTES
+- instâncias
+    https://github.com/bcamath-ds/OPLib/tree/master

@@ -1,0 +1,6 @@
+output/
+*.exe
+*.o
+*.out
+.vscode/
+OP_guloso_localSearch
