@@ -271,13 +271,13 @@ int main() {
     static Problema P;
     static Solucao S;
     char *arquivos[] = {
-        "rat99-gen2-50.oplib",
-        "rat195-gen2-50.oplib",
-        "rat575-gen2-50.oplib",
-        "rat783-gen2-50.oplib",
-        "rl1889-gen2-50.oplib",
-        "fnl4461-gen3-50.oplib",
-        "rl5934-gen2-50.oplib"
+        "InstanciasOPLIB/rat99-gen2-50.oplib",
+        "InstanciasOPLIB/rat195-gen2-50.oplib",
+        "InstanciasOPLIB/rat575-gen2-50.oplib",
+        "InstanciasOPLIB/rat783-gen2-50.oplib",
+        "InstanciasOPLIB/rl1889-gen2-50.oplib",
+        "InstanciasOPLIB/fnl4461-gen3-50.oplib",
+        "InstanciasOPLIB/rl5934-gen2-50.oplib"
     };
 
     int num_instancias = 7;
